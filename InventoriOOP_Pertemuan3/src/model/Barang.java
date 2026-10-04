@@ -51,7 +51,9 @@ public class Barang {
         }
         jumlahTersedia += jumlah;
     }
+
+    public void pinjam(int i) {
+        
+    }
+
 }
-        
-        
-   
